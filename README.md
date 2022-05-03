@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guro Beridze - Experienced Senior Frontend Developer with a demonstrated history of working in the gambling & casinos industry.  
-- 👀 I’m interested in create single-page Web applications using Angular and Node JS with MongoDB
+- 👀 I’m interested in create single-page Web applications using Angular, React and Node JS with MongoDB
 - 🌱 I’m currently learning Webassembly
 
 
